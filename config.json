@@ -1,5 +1,12 @@
 {    
-        "token": "MTA4Nzg3NDExNzU5Mzc0MzQwMA.G-HyXD.WQVVZGdvw7f9e8yJEyv-f0gtA3AD4_SDUXHyoI",
-        "clientId": "1087874117593743400",
-        "guildId": "971172072623599666"
+        "bot": {
+                "botToken": "MTA4Nzg3NDExNzU5Mzc0MzQwMA.G-HyXD.WQVVZGdvw7f9e8yJEyv-f0gtA3AD4_SDUXHyoI",
+                "botName": "NeptuneNL",
+                "botPrefix": "!",
+                "botColor": "#5b617f",
+                "botThumbnail": "https://cdn.discordapp.com/attachments/754761286021283890/1044667250537414716/neptune.png",
+                "botFooter": "© Twitch.tv/NeptuneNL",
+                "clientId": "1087874117593743400",
+                "guildId": "971172072623599666"
+            }
 }
