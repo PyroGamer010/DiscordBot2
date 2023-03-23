@@ -26,7 +26,7 @@ client.once(Events.ClientReady, () => {
 	console.log('Ready!');
 });
 
-client.login(token);
+client.login(config.bot.token);
 
 client.on(Events.InteractionCreate, async interaction => {
 	if (!interaction.isChatInputCommand()) return;
