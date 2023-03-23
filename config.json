@@ -1,6 +1,6 @@
 {    
         "bot": {
-                "botToken": "MTA4NzAyNDE2MDE2NjkwNzkyNQ.GMF20s.o3ywvGMUjCP43gR1CSFzz8MFtBCTTW5YU4tmYk",
+                "botToken": "your token",
                 "botName": "NeptuneNL",
                 "botPrefix": "!",
                 "botColor": "#5b617f",
@@ -8,5 +8,9 @@
                 "botFooter": "© Twitch.tv/NeptuneNL",
                 "clientId": "1087874117593743400",
                 "guildId": "971172072623599666"
-            }
+            },
+
+        "commands": {
+                "memberCommand": "members"
+        }
 }
